@@ -1,0 +1,11 @@
+{
+  "name": "Weather GPT",
+  "description": "High-accuracy weather radar, 50-year climate archive, real-time forecast, and voice-enabled AI assistant powered by Weather GPT.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
